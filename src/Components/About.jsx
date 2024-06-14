@@ -24,12 +24,8 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm Sparsh Kandpal, With a deep fascination for the world of Artificial Intelligence, I constantly strive to expand my horizons and explore new avenues of learning. My passion for finances and investments drives me, as I believe in the power of making money work for you, rather than just working for money. As an aspiring engineer, I am dedicated to honing my technical skills and leveraging them to create innovative solutions. Beyond my technical pursuits, I am also a public speaker and storyteller, finding joy in immersing myself in the world of emotions and human connections. I like to think of myself as an entrepreneur by heart, an engineer by mind, and an explorer at heart, always seeking new opportunities and experiences.";
 
-/**
- * List of some of skills or technologies you work on, are learning,
- * passionate about, or enjoy,
- */
 const skillsList = [
   "Web design",
   "User experience",
